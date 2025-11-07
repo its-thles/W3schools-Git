@@ -19,7 +19,7 @@
     </p>
     <h2>Skill Set - Playgrounds</h2>
     <ul class="skillset">
-      <li><a href="projects/playground/html/index.html">HTML5</a></li>
+      <li><a href="projects/playground/html/index.php">HTML5</a></li>
       <li><a href="">CSS 3</a></li>
       <li><a href="">JavaScript</a></li>
     </ul>
