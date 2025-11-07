@@ -1,0 +1,4 @@
+# Arquivo .gitattributes
+*.php linguist-language=PHP
+*.html linguist-language=HTML
+*.js linguist-language=JavaScript
